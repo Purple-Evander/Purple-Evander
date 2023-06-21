@@ -1,1 +1,1 @@
-
+This a scalable web-app that can let users share the deep secrets anonymously and also read other's secrets anonymously, with a feature to add favourite secrets to collection. Includes Google authentication.
