@@ -1,8 +1,5 @@
-- I'm Harish 19, CSE Engineering student from Chennai 
-- Enjoy doing web applications(Fullstack MERN), and interested to integrate blockchain technology
-- Would be happy to learn and work in blockchain web applications!! 
-- I have experience with making some simple web application so far 😄
-- Building web apps is >>> binging netflix 😉
+- I'm Harish 20, CSE Engineering student from Chennai 
+- Now actively self educating and aquiring industry demanded skills on domain of data analytics
 
 <!---
 Purple-Evander/Purple-Evander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
