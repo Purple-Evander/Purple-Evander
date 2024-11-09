@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍💻21 year old NextJs Developer looking for opportunities in small to medium sized Tech Companies 🏢.<br><br>Familiar with NodeJs for server, MongoDB and MySQL for Database, Salesforce for CRM(Admin & Developer);<br><br>Experience with Data-Analysis (PowerBI), Frontend (Figma), ML (python) and Graphics(Inkscape);<br><br>Aspiring to be a ✨Saas-Sales-Engineer✨ someday, cuz c'mon, <br>what's more satisfying than shaking hands 🤝with clients by closing deals after a great negotiation;<br><br>I Meditate🧘‍♂️ and I also do Boxing🥊 .......Ik its a very contrasting interests :)
+🧑🏼‍💻21 year old NextJs Developer looking for opportunities in small to medium sized Tech Companies 🏢.<br><br>Familiar with NodeJs for server, MongoDB and MySQL for Database, Salesforce for CRM(Admin & Developer);<br><br>Experience with Data-Analysis (PowerBI), Frontend (Figma), ML (python) and Graphics(Inkscape);<br><br>Aspiring to be a ✨Saas-Sales-Engineer✨ someday, cuz c'mon, <br>what's more satisfying than the feeling of a handshake🤝 with clients by closing deals after a great negotiation;<br><br>I Meditate🧘‍♂️ and I also do Boxing🥊 .......Ik its a very contrasting interests :)
 
 
 ## 🌐 Socials:
